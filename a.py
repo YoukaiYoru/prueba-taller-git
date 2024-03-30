@@ -1,4 +1,4 @@
-def sum(int1, int2):
-    return int1 + int2
+def multi(int1, int2):
+    return int1 * int2
 
-print(sum(1, 2))
+print(multi(1, 2))
