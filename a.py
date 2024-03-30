@@ -17,3 +17,8 @@ class A:
 
     def get_text(self):
         return self.text
+
+def multi(int1, int2):
+    return int1 * int2
+
+print(multi(1, 2))
